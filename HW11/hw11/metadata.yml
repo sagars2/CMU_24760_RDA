@@ -1,0 +1,12 @@
+---
+:id: 102936304
+:submitters:
+- :name: Sagar Sachdev
+  :email: sagarsac@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-02 04:57:10.469414000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-01 20:57:10.469414000 Z
+:status: processed
+:score: 100.0
